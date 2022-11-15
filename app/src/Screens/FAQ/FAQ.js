@@ -66,9 +66,9 @@ const Accordion = () => (
         <Panel header="What’s the cost of attendance?">
             It’s a free event hosted by the SF Hacks Team at San Francisco State University.
         </Panel>
-        <Panel header="How do you form a team?">
+        <Panel header="How do you make a team?">
             You can form a team on our Discord text channel, #find-a-team! We will also be hosting a short mixer at the beginning
-            of the hackathon for those that do not have a team yet.
+            of the hackathon for those unable to form a team.
         </Panel>
         <Panel header="Is the hackathon free and what will be provided?">
             For in-person SFSU hosted hackathons, admission is free of charge and food will be provided as well as other
