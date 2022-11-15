@@ -21,19 +21,19 @@ const About = () => {
                 <div className="banner">
                     <div className="about-banner-cont">
                         <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ const About = () => {
                                     <div className="about-para-one">
                                         Our organization’s <strong className="orange">purpose</strong> is to plan and host
                                         California’s most talented collegiate hackers, designers, and developers, to a{" "}
-                                        <strong>3 day hackathon.</strong>
+                                        <strong>24-hour hackathon.</strong>
                                     </div>
                                     <div className="about-para-two">
                                         We work towards giving students an environment for{" "}
@@ -95,19 +95,19 @@ const About = () => {
             <div className="banner">
                 <div className="about-banner-cont">
                     <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@ const About = () => {
                                 <div className="about-para-one">
                                     Our organization’s <strong className="orange">purpose</strong> is to plan and host
                                     California’s most talented collegiate hackers, designers, and developers, to a{" "}
-                                    <strong>3 day hackathon.</strong>
+                                    <strong>24-hour hackathon.</strong>
                                 </div>
                                 <div className="about-para-two">
                                     We work towards giving students an environment for{" "}
