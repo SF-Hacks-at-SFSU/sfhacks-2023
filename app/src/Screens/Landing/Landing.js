@@ -94,7 +94,7 @@ const Landing = () => {
                 <div className="timer-cont-mac">
                     <div className="timer-mac">
                         <div>
-                            <span id="nums">Thank You For Hacking With Us!</span>
+                            <span id="nums">2023 Hackathon Coming Soon</span>
                         </div>
                     </div>
                 </div>
@@ -166,7 +166,7 @@ const Landing = () => {
             <div className="timer-cont">
                 <div className="timer">
                     <div>
-                        <span id="nums">Thank You For Hacking With Us!</span>
+                        <span id="nums">2023 Hackathon Coming Soon!</span>
                     </div>
                 </div>
             </div>
