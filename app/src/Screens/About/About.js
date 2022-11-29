@@ -21,19 +21,19 @@ const About = () => {
                 <div className="banner">
                     <div className="about-banner-cont">
                         <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                         <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                            GOING VIRTUAL
+                            BACK IN PERSON
                         </div>
                     </div>
                 </div>
@@ -95,19 +95,19 @@ const About = () => {
             <div className="banner">
                 <div className="about-banner-cont">
                     <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                     <div className="banner-text text-line" style={{ transform: `translateY(-${offsetY * 0.1}px)` }}>
-                        GOING VIRTUAL
+                        BACK IN PERSON
                     </div>
                 </div>
             </div>
